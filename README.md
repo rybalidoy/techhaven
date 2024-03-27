@@ -5,4 +5,4 @@ A ecommerce web application platform developed in MERN stack environment using N
 ## WIP
 
 -   Added Admin Pages
--   Added backed application for api endpoints
+-   Added backend application for api endpoints
