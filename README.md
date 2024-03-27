@@ -1,4 +1,4 @@
-# TECHHAVEN
+# TechHaven
 
 A ecommerce web application platform developed in MERN stack environment using NEXTJS.
 
